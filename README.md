@@ -8,7 +8,7 @@
 
 #### Currently finishing off a Masters at Computing at the University Of Sheffield. 
 
-#### For any questions, i'm active on my [LinkedIn](https://www.linkedin.com/in/damian-b-737951102/)
+#### Send through any programming questions on the feedback form, for any questions, i'm active on my [LinkedIn](https://www.linkedin.com/in/damian-b-737951102/)
 
 <!--
 **dambem/dambem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
