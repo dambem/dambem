@@ -5,6 +5,7 @@ I'm currently working on [Climate Monitor V2](https://github.com/dambem/ClimateM
 My [Dissertation](https://github.com/dambem/diss-quad-gait) a novel approach to robotic locomotion based on using real evolutionary principles, as well as a recreation of Central Pattern Generators, all in pure python! 
 
 [Conway's Game Of Life on the Sensehat](https://github.com/dambem/gameoflife_sensehat) A small, lightweight implementation of conway's game of life on a Raspberry Pi. 
+
 ---
 Finishing off a Masters at Computing at the University Of Sheffield. 
 
