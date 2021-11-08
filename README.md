@@ -7,7 +7,7 @@ My [dissertation](https://github.com/dambem/diss-quad-gait), a novel approach to
 [Conway's Game Of Life on the Sensehat](https://github.com/dambem/gameoflife_sensehat) A small, lightweight implementation of conway's game of life on a Raspberry Pi. 
 
 ---
-Finishing off a Masters at Computing at the University Of Sheffield. 
+Masters at Computing at the University Of Sheffield (First Qualification with Honours) 
 
 Send through any programming questions on the feedback form, for any questions, i'm active on my [LinkedIn](https://www.linkedin.com/in/damian-b-737951102/)
 
